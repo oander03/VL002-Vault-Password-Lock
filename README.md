@@ -1,5 +1,5 @@
 # Vault Password Lock
-Using an FPGA board, lock, unlock, and set a password to a vault like mechanism. <br/>
+Using an FPGA board, made a lock, unlock, and set a password system to make a fully functioning vault.
 
 I used an DE10-Lite for this project.<br/>
 
